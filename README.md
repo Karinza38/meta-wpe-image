@@ -1,4 +1,4 @@
-# Getting the BSP
+ # Getting the BSP
 
 * Install `repo`:  `apt-get install repo`
 * Install the [required Yocto dependencies][yocto-deps] in your system.
